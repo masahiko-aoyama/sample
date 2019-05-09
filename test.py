@@ -1,6 +1,7 @@
 # サンプルコード
 from test1 import Test1
 from test2 import Test2
+from test3 import Test3
 
 y = 0
 while y < 10:
@@ -17,4 +18,5 @@ t1 = Test2("てすと", 1)
 t1.aaa()
 t1.bbb()
 
+Test3.kuku()
 
