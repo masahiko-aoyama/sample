@@ -1,3 +1,4 @@
+# サンプルクラス1
 class Test1:
     def a(aaa):
         #aaa=1

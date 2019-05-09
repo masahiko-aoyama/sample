@@ -1,3 +1,4 @@
+# サンプルクラス2
 class Test2:
     def __init__(self, name, no):
         self.name = name
