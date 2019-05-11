@@ -1,4 +1,4 @@
-# サンプルコード
+# サンプルコード(TEST002)
 from test1 import Test1
 from test2 import Test2
 from test3 import Test3
